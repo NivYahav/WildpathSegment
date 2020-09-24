@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1X3qPsSxme49BljdMKtUnL1PDZTSB-oFm/view
 
 install Dependencies:
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 run:
 ```
